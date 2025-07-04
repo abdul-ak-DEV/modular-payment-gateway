@@ -1,0 +1,10 @@
+# Java build output
+mods/
+dist/
+jlink-image/
+*.class
+
+# IDEs
+.idea/
+*.iml
+.DS_Store
